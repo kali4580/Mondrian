@@ -1,5 +1,5 @@
 .container{
-    background-color:yellow;
+    background-color: lightskyblue;
     display: grid;
     grid-template-columns: auto auto auto auto;
     grid-gap: 10px;
@@ -7,8 +7,8 @@
 }
     
 .item{
-    background-color: teal;
-    color: yellow;
+    background-color: lightpink;
+    color: white;
     font-size: 30px;
     padding: 10px;
     text-align: center;
